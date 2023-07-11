@@ -20,81 +20,34 @@ title-logo: "./media/logos/auckland.png"
 
 ::: {.columns .incremental}
 ::: {.column .fragment width="33%"}
+
 <figure>
-  <img src="./media/photos/jingliu.jpg" class="center" width="80%"/>
+  <img src="./media/photos/jingliu.jpg" class="center" width="80%">
   <figcaption>Jingxuan Liu</figcaption>
 </figure>
+
 :::
 
 ::: {.column .fragment width="33%"}
+
 <figure>
-  <img src="./media/photos/elika.jpeg" class="center" width="80%"/>
+  <img src="./media/photos/elika.jpeg" class="center" width="80%">
   <figcaption>Elika Bergelson</figcaption>
 </figure>
+
 :::
 
 ::: {.column .fragment width="33%"}
+
 <figure>
-  <img src="./media/photos/sammehr.jpg" class="center" width="80%"/>
+  <img src="./media/photos/sammehr.jpg" class="center" width="80%">
   <figcaption>Sam Mehr</figcaption>
 </figure>
+
 :::
 :::
 
-------------------------------------------------------------------------
-
-<br><br>
-
-::: {style="text-align:center;"}
-![](media/images/soundwave.png){width="70%"}
-:::
-
-::: {.container-col .center}
-::: {.fork-lines .fragment}
-:::
-
-::: {.container-row .incremental}
-::: {.element .fragment}
-**innate specialisations**
-:::
-
-::: {.element .fragment}
-**encultured listening**
-:::
-:::
-:::
-
-## encultured listening
-
-::: {.container-col .incremental .center}
-::: {.element .fragment}
-perceptual narrowing effects
-:::
-
-::: {.element2 .fragment}
-tuning into native speech sounds (Kuhl, 2004)
-:::
-
-::: {.element2 .fragment}
-tuning into native musical stuctures (Hannon & Trehub, 2005)
-:::
-:::
-
-## encultured listening
-
-::: {.container-col .incremental .center}
-::: {.element .fragment}
-cross-domain transfer
-:::
-
-::: {.element2 .fragment}
-music training shaping language processing (Patel, 2011; Wong et al., 2007)
-:::
-
-::: {.element2 .fragment}
-language experience shaping music processing??
-:::
-:::
+## Does the language you speak shape how you hear music? {.center}
 
 ## tonal languages
 
@@ -206,6 +159,7 @@ three tests of musical ability
 **beat discrimination**<br>[(Harrison & Müllensiefen, 2018)]{.smaller}
 :::
 :::
+
 :::
 
 ## main results
@@ -260,13 +214,14 @@ pitch important for tonal languages = increased selective attention for pitch
 ::: {.element .fragment}
 increased selective attention for pitch = decreased selective attention to duration
 :::
+
 :::
 
 ## takeaways
 
 ::: {.container-col .incremental .center}
 ::: {.element .fragment}
-enculturation of perceptual processing<br>in a way that crosses domains
+culture can shape perception in a way that crosses domains
 :::
 
 ::: {.element .fragment}
@@ -274,9 +229,13 @@ web-based citizen science is effective<br>for testing generalizability
 :::
 :::
 
-## links
+## paper
 
-**paper:** Liu, J., Hilton, C. B., Bergelson, E., & Mehr, S. A. (2023). Language experience predicts music processing in a half-million speakers of fifty-four languages. Current Biology.
+::: {style="text-align:center;"}
+![](media/images/paper.png){width="50%"}
+:::
+
+## links
 
 **preprint:** bioRxiv, biorxiv.org/content/10.1101/2021.10.18.464888v2
 
@@ -286,8 +245,10 @@ web-based citizen science is effective<br>for testing generalizability
 
 ## thanks for your attention {.center}
 
+
 ```{=html}
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 <script type="text/javascript" src="zoomer.js"></script>
 <script type="text/javascript" src="audio_player.js"></script>
 ```
+
