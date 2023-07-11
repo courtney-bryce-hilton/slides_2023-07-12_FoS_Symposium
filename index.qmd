@@ -1,0 +1,293 @@
+---
+title: "Language experience predicts music processing in a half-million speakers of fifty-four languages"
+subtitle: "FoS Symposium, Auckland"
+author: "-<br>Courtney B. Hilton"
+format: 
+  revealjs:
+    theme: [default, styles.scss]
+    slide-number: true
+    template-partials:
+      - title-slide.html
+title-slide-attributes:
+  data-background-color: "#00467F"
+  data-background-size: contain
+date: 2023-07-12
+date-format: long
+title-logo: "./media/logos/auckland.png"
+---
+
+## collaborators
+
+::: {.columns .incremental}
+::: {.column .fragment width="33%"}
+<figure>
+  <img src="./media/photos/jingliu.jpg" class="center" width="80%"/>
+  <figcaption>Jingxuan Liu</figcaption>
+</figure>
+:::
+
+::: {.column .fragment width="33%"}
+<figure>
+  <img src="./media/photos/elika.jpeg" class="center" width="80%"/>
+  <figcaption>Elika Bergelson</figcaption>
+</figure>
+:::
+
+::: {.column .fragment width="33%"}
+<figure>
+  <img src="./media/photos/sammehr.jpg" class="center" width="80%"/>
+  <figcaption>Sam Mehr</figcaption>
+</figure>
+:::
+:::
+
+------------------------------------------------------------------------
+
+<br><br>
+
+::: {style="text-align:center;"}
+![](media/images/soundwave.png){width="70%"}
+:::
+
+::: {.container-col .center}
+::: {.fork-lines .fragment}
+:::
+
+::: {.container-row .incremental}
+::: {.element .fragment}
+**innate specialisations**
+:::
+
+::: {.element .fragment}
+**encultured listening**
+:::
+:::
+:::
+
+## encultured listening
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+perceptual narrowing effects
+:::
+
+::: {.element2 .fragment}
+tuning into native speech sounds (Kuhl, 2004)
+:::
+
+::: {.element2 .fragment}
+tuning into native musical stuctures (Hannon & Trehub, 2005)
+:::
+:::
+
+## encultured listening
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+cross-domain transfer
+:::
+
+::: {.element2 .fragment}
+music training shaping language processing (Patel, 2011; Wong et al., 2007)
+:::
+
+::: {.element2 .fragment}
+language experience shaping music processing??
+:::
+:::
+
+## tonal languages
+
+::: {.container-col .incremental .center}
+::: fragment
+::: {style="text-align:center;"}
+![](media/images/tones_ma.png){width="70%"}
+:::
+:::
+
+::: {.element2 .fragment}
+does natively speaking a tonal language boost melody processing?
+:::
+:::
+
+<audio class="media_example hide" controls>
+
+<source src="media/audio/flat_rising_contour_falling.mp3" type="audio/mp3">
+
+</audio>
+
+## meta analysis
+
+::: fragment
+::: {style="text-align:center;"}
+![](media/figures/meta_plot1.png){width="95%"}
+:::
+:::
+
+## meta analysis
+
+::: {style="text-align:center;"}
+![](media/figures/meta_plot2.png){width="95%"}
+:::
+
+## meta analysis
+
+::: {style="text-align:center;"}
+![](media/figures/meta_plot3.png){width="95%"}
+:::
+
+## meta analysis
+
+::: {style="text-align:center;"}
+![](media/figures/meta3.jpg){width="95%"}
+:::
+
+## limitations of prior studies
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+biased sampling of few languages/countries
+:::
+
+::: {.element .fragment}
+small sample sizes
+:::
+
+::: {.element .fragment}
+poor control of musical training/experience
+:::
+:::
+
+## our experiment {.center}
+
+## a citizen science experiment
+
+<br>
+
+::: {.columns .incremental}
+::: {.fragment .center}
+https://www.themusiclab.org/
+:::
+
+<br>
+
+::: {.column .fragment width="50%"}
+<img src="./media/logos/music_lab_text.png" class="center" width="60%"/></img>
+:::
+
+::: {.column .fragment width="50%"}
+<img src="./media/images/miq.png" class="center" width="100%"/></img>
+:::
+:::
+
+## our sample
+
+::: {style="text-align:center;"}
+![](media/figures/languages.png){width="90%"}
+:::
+
+## experiment details
+
+::: {.container-col .center}
+::: {.element .fragment}
+three tests of musical ability
+:::
+
+::: {.container-row .incremental}
+::: {.element2 .fragment}
+**melodic discrimination**<br>[(Harrison et al., 2017)]{.smaller}
+:::
+
+::: {.element2 .fragment}
+**mistuning discrimination**<br>[(Larrouy-Maestri et al., 2019)]{.smaller}
+:::
+
+::: {.element2 .fragment}
+**beat discrimination**<br>[(Harrison & Müllensiefen, 2018)]{.smaller}
+:::
+:::
+:::
+
+## main results
+
+::: fragment
+::: {style="text-align:center;"}
+![](media/figures/tone_effects1.png){width="100%"}
+:::
+:::
+
+## main results
+
+::: {style="text-align:center;"}
+![](media/figures/tone_effects2.png){width="100%"}
+:::
+
+## main results
+
+::: {style="text-align:center;"}
+![](media/figures/tone_effects3.png){width="100%"}
+:::
+
+## robustness & generalizability
+
+::: {style="text-align:center;"}
+![](media/figures/lang-effects.png){width="75%"}
+:::
+
+## summary
+
+::: {.container-col .incremental .center}
+::: {.element2 .fragment}
+native speakers of tonal languages are better, on average, at melodies
+:::
+
+::: {.element2 .fragment}
+this advantage traded off with worse beat perception
+:::
+
+::: {.element2 .fragment}
+robust across 19 different tonal languages, musical training, income, education, and other cultural predictors
+:::
+:::
+
+## why?
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+pitch important for tonal languages = increased selective attention for pitch
+:::
+
+::: {.element .fragment}
+increased selective attention for pitch = decreased selective attention to duration
+:::
+:::
+
+## takeaways
+
+::: {.container-col .incremental .center}
+::: {.element .fragment}
+enculturation of perceptual processing<br>in a way that crosses domains
+:::
+
+::: {.element .fragment}
+web-based citizen science is effective<br>for testing generalizability
+:::
+:::
+
+## links
+
+**paper:** Liu, J., Hilton, C. B., Bergelson, E., & Mehr, S. A. (2023). Language experience predicts music processing in a half-million speakers of fifty-four languages. Current Biology.
+
+**preprint:** bioRxiv, biorxiv.org/content/10.1101/2021.10.18.464888v2
+
+**pre-registration:** OSF, osf.io/xurdb
+
+**data and code:** doi.org/10.5281/zenodo.7614188
+
+## thanks for your attention {.center}
+
+```{=html}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="zoomer.js"></script>
+<script type="text/javascript" src="audio_player.js"></script>
+```
